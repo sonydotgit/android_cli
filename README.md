@@ -1,6 +1,6 @@
 <div align="center">
 
-[![androidcli](https://github.com/sonydotgit/android_cli/blob/master/data/Pictures/android_cli_red.svg)](#readme)
+[![androidcli](https://github.com/sonydotgit/android_cli/blob/master/data/Pictures/android_cli.svg)](#readme)
 
 </div>
 
